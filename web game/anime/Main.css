@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+}
+p{
+    color: blanchedalmond;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+.H1{
+    border-style: none;
+    height: 50px;
+    max-width: 2400px;
+    width: 100%;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 20px;
+    padding:20px;
+}
+.photo{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    
+}
+.photo1{
+    margin-bottom: 50px;
+    margin-left: 20px;
+    float: left;
+}
+.LanDiscription{
+    border-style: none;
+    max-width: 2400px;
+    width: 100%;
+    height: 300px;
+    display: inline;
+}
+.photoes{
+    margin:0px 0px 50px 20px;
+}
