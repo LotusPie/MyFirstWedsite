@@ -10,7 +10,7 @@ a{
 .H1{
     border-style: none;
     height: 50px;
-    max-width: 2400px;
+    max-width: 1200px;
     width: 100%;
     font-size: 50px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -24,20 +24,21 @@ a{
     width: 300px;
     object-fit: cover;
     border-radius: 10px;
-    
+    display: inline;
 }
 .photo1{
     margin-bottom: 50px;
     margin-left: 20px;
-    float: left;
-}
-.LanDiscription{
-    border-style: none;
-    max-width: 2400px;
-    width: 100%;
-    height: 300px;
     display: inline;
 }
+.LanDiscription{
+    display: inline;
+    border-style: none;
+    max-width:500px;
+    width: 100%;
+    height: 350px;
+}
 .photoes{
-    margin:0px 0px 50px 20px;
+    margin-bottom:50px ;
+    margin-left: 20px;
 }
