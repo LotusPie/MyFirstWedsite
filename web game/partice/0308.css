@@ -1,0 +1,24 @@
+@media (min-width: 60em) {
+    body {
+      background-color: blue;
+    }
+  }
+html,body{
+    background-image: linear-gradient(black, white);
+}
+.outer{
+    border: 5px solid #000;
+}
+.box{
+    padding: 10px;
+    width: calc(87%);
+    background-color: blueviolet;
+    color: white;
+}
+.box1{
+    margin: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(151, 242, 66);
+    transform: rotate(0.8turn);
+}

@@ -1,0 +1,9 @@
+a:link{
+    color:gold
+}
+a:visited{
+    color: rgb(240, 71, 170)
+}
+a:hover{
+    text-decoration: none
+}
