@@ -3,9 +3,11 @@
 }
 p{
     color: blanchedalmond;
+    font-family: sans-serif,serif;
 }
 a{
     color: rgb(255, 255, 255);
+    border-bottom: solid 1px rgb(0, 0, 0);
 }
 .H1{
     border-style: none;
